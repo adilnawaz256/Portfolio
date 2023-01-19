@@ -4,7 +4,7 @@ const html ={
     width:"95%"
 }
 const css = {
-    width:"66"
+    width:"66%"
 }
 const js = {
     width:"70%"
@@ -27,9 +27,8 @@ const mongo = {
 export default function Skills(){
     useEffect(() => {
 		AOS.init();
-    AOS.refresh();
+    AOS.refresh()
 	  }, []);
-
     return(
         <section className='skills' id='skills'>
         <div className='container'>
