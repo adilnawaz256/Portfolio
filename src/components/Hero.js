@@ -25,14 +25,14 @@ export default function Skills() {
                                 loop={Infinity}
                                 steps={[
                                     "ReactJs Developer",
-                                    1000,
+                                    1500,
                                     "Web Developer",
-                                    1000,
+                                    1500,
                                 ]}
                             />
                         </h1>
                         <p className='pt-10'>
-                            A passionate Web Developer having an Buildin Websites with user friendly...
+                            A passionate Web Developer having an Building Websites with user friendly...
                         </p>
                         <a href='#about' className='learn-more'>
                             <span className='circle' aria-hidden='true'>
