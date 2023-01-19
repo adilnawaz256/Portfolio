@@ -17,7 +17,7 @@ export default function Project() {
                    <div  className='card mt-20'>
                       <img src={weather} alt='Project' className='card-img-top'/>
                       <div className="card-body">
-                        <button className='btn btn-primary'>Github</button>
+                        <button className='btn btn-primary' onClick={()=> window.open('https://github.com/adilnawaz256/WeatherApp.git')}>Github</button>
                     </div>
                     </div>
                 </div>
@@ -25,7 +25,7 @@ export default function Project() {
                    <div  className='card mt-20'>
                       <img src={dic} alt='Project' className='card-img-top'/>
                       <div className="card-body">
-                        <button className='btn btn-primary'>Github</button>
+                        <button className='btn btn-primary' onClick={()=> window.open('https://github.com/adilnawaz256/DictonaryWebsite.git')}>Github</button>
                     </div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@ export default function Project() {
                    <div  className='card mt-20'>
                       <img src={sc} alt='Project' className='card-img-top'/>
                       <div className="card-body">
-                        <button className='btn btn-primary'>Github</button>
+                        <button className='btn btn-primary' onClick={()=> window.open('https://github.com/adilnawaz2/Day06_SnapChat.git')}>Github</button>
                     </div>
                     </div>
                 </div>
