@@ -1,8 +1,4 @@
 import React from 'react'
-
-const backtop={
-    display:'none'
-}
 export default function Footer(){
     return(
         <footer>
@@ -19,9 +15,6 @@ export default function Footer(){
         </div>
         <a href='https://wa.me/+919625534956/?text=Hello Adil 🤙' className='whatsapp-btn animate__animated animate__backInDown' target='_blank'>
             <i className='uil uil-whatsapp my-float'></i>
-        </a>
-        <a href="#" id="scroll" style={backtop} className='animate__animated animate__backInDown'>
-            <i className="uil uil-top-arrow-from-top"></i>
         </a>
     </footer>
     )

@@ -12,9 +12,9 @@ export default function App(){
        <Hero/>
        <About/>
        <Project/>
-    <Skills width="50%"/>
-    <Contact/>
-    <Footer/>
+       <Skills width="50%"/>
+       <Contact/>
+       <Footer/>
     </>
     )
 }
