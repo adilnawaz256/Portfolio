@@ -27,7 +27,7 @@ const mongo = {
 export default function Skills(){
     useEffect(() => {
 		AOS.init();
-		AOS.refresh();
+    AOS.refresh();
 	  }, []);
 
     return(

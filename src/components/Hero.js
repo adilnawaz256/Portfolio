@@ -32,7 +32,7 @@ export default function Skills() {
                             />
                         </h1>
                         <p className='pt-10'>
-                            A passionate Web Developer having an Building Websites with user friendly...
+                        A passionate web developer having a knack for building websites that provides with user friendly experiences...
                         </p>
                         <a href='#about' className='learn-more'>
                             <span className='circle' aria-hidden='true'>
