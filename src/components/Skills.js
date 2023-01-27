@@ -45,7 +45,7 @@ export default function Skills(){
                 </div>
                 <div className='col-12 col-lg-6'>
                 <div className='skill' data-aos="flip-up">
-                          <h5 className='skill-title'><i className="fa-brands fa-css3"></i>Python</h5>
+                          <h5 className='skill-title'><i className="fa-brands fa-python"></i>Python</h5>
                           <div className='skill-bar'>
                             <div className='skill-progress' style={python} data-progress='75%' ></div>
                           </div>
@@ -85,7 +85,7 @@ export default function Skills(){
                           </div>
                         </div>
                       <div className='skill' data-aos="flip-up">
-                          <h5 className='skill-title'><i className="fa-brands fa-css3"></i>DSA</h5>
+                          <h5 className='skill-title'><i className="fa-brands fa-dsa"></i>DSA</h5>
                           <div className='skill-bar'>
                             <div className='skill-progress' style={dsa} data-progress='50%' ></div>
                           </div>
