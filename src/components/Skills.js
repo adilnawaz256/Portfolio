@@ -24,6 +24,12 @@ const node = {
 const mongo = {
     width:'55%'
 }
+const python ={
+  width:'75%'
+}
+const dsa = {
+  width:'50%'
+}
 export default function Skills(){
     useEffect(() => {
 		AOS.init();
@@ -38,6 +44,12 @@ export default function Skills(){
                     <div className='title-bar'></div>
                 </div>
                 <div className='col-12 col-lg-6'>
+                <div className='skill' data-aos="flip-up">
+                          <h5 className='skill-title'><i className="fa-brands fa-css3"></i>Python</h5>
+                          <div className='skill-bar'>
+                            <div className='skill-progress' style={python} data-progress='75%' ></div>
+                          </div>
+                </div>
                      <div className='skills' data-aos="flip-up">
                          <div className='skill'>
                           <h5 className='skill-title'><i className="fa-brands fa-html5"></i>HTML</h5>
@@ -58,12 +70,6 @@ export default function Skills(){
                           </div>
                         </div>
                         <div className='skill' data-aos="flip-up">
-                          <h5 className='skill-title'><i className="fa-brands fa-react"></i>React Js</h5>
-                          <div className='skill-bar'>
-                            <div className='skill-progress' style={react} data-progress='80%'></div>
-                          </div>
-                        </div>
-                        <div className='skill' data-aos="flip-up">
                           <h5 className='skill-title'><i className="fa-brands fa-bootstrap"></i> Bootstrap</h5>
                           <div className='skill-bar'>
                             <div className='skill-progress' style={bootstrap} data-progress='80%'></div>
@@ -72,6 +78,18 @@ export default function Skills(){
                     </div>
                 </div>
                 <div className='col-12 col-lg-6'>
+                <div className='skill' data-aos="flip-up">
+                          <h5 className='skill-title'><i className="fa-brands fa-react"></i>React Js</h5>
+                          <div className='skill-bar'>
+                            <div className='skill-progress' style={react} data-progress='80%'></div>
+                          </div>
+                        </div>
+                      <div className='skill' data-aos="flip-up">
+                          <h5 className='skill-title'><i className="fa-brands fa-css3"></i>DSA</h5>
+                          <div className='skill-bar'>
+                            <div className='skill-progress' style={dsa} data-progress='50%' ></div>
+                          </div>
+                </div>
                     <div className='skill' data-aos="flip-down">
                             <h5 className='skill-title'><i className="fa-brands fa-github"></i>Git/Github</h5>
                             <div className='skill-bar'>
