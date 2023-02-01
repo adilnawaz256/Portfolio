@@ -36,14 +36,14 @@ export default function Contact(){
                             <i className='uil uil-outgoing-call'></i>
                             <span className='info-details'>
                                 <h6>Phone</h6>
-                                <span className='info-value'><a href='tel:+917449193747'> +91 9625534956</a></span>
+                                <span className='info-value'><a href='tel:+919625534956'> +91 9625534956</a></span>
                             </span>
                         </li>
                         <li>
                             <i className='uil uil-envelope-edit'></i>
                             <span className='info-details'>
                                 <h6>Email</h6>
-                                <span className='info-value'><a href='mailto:erajamanickam72@gmail.com'> adilnawaz256@gmail.com</a></span>
+                                <span className='info-value'><a href='mailto:adilnawaz256@gmail.com'> adilnawaz256@gmail.com</a></span>
                             </span>
                         </li>
                         <li>

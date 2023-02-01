@@ -25,7 +25,6 @@ export default function Footer(){
                         social.map((soc)=>{
                             return(
                                 <li><a href={soc.link} target='_blank' rel="noreferrer"><i className={soc.icons}></i></a></li>
-
                             )
                         })
                     }
