@@ -1,15 +1,27 @@
 [
     {
-        "imageurl":"/static/media/weather.3deda08a5ea82dc8a3e8.png",
+        "imageurl":"https://i.postimg.cc/mkbF9hkG/weather.png",
         "alt":"weather web-app",
-        "projecturl":"https://github.com/adilnawaz256/WeatherApp.git"
+        "projecturl":"https://github.com/adilnawaz256/WeatherApp.git",
+        "mystyle":{
+            "background": "#EDF2FC",
+            "boxShadow": "1px 3px 0px #000"
+        }
     },{
-        "imageurl":"/static/media/dictionary.b2c94e525052e7d1c7f0.png",
+        "imageurl":"https://i.postimg.cc/tgpyp6My/dictionary.png",
         "alt":"Dictionary web-app",
-        "projecturl":"https://github.com/adilnawaz256/DictonaryWebsite.git"
+        "projecturl":"https://github.com/adilnawaz256/DictonaryWebsite.git",
+        "mystyle":{
+            "background": "#EDF2FC",
+            "boxShadow": "1px 3px 0px #000"
+        }
     },{
-        "imageurl":"/static/media/sanpchart.e27ed7baebfc7d13fd77.png",
+        "imageurl":"https://i.postimg.cc/tRMxJRb8/sanpchart.png",
         "alt":"SnapChart web-app",
-        "projecturl":"https://github.com/adilnawaz2/Day06_SnapChat.git"
+        "projecturl":"https://github.com/adilnawaz2/Day06_SnapChat.git",
+        "mystyle":{
+            "background": "#EDF2FC",
+            "boxShadow": "1px 3px 0px #000"
+        }
     }
 ]
