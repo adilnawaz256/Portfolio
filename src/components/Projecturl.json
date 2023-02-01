@@ -1,14 +1,14 @@
 [
     {
-        "imageurl":"https://portfolio-adilnawaz256.vercel.app/static/media/weather.3deda08a5ea82dc8a3e8.png",
+        "imageurl":"/static/media/weather.3deda08a5ea82dc8a3e8.png",
         "alt":"weather web-app",
         "projecturl":"https://github.com/adilnawaz256/WeatherApp.git"
     },{
-        "imageurl":"https://portfolio-adilnawaz256.vercel.app/static/media/dictionary.b2c94e525052e7d1c7f0.png",
+        "imageurl":"/static/media/dictionary.b2c94e525052e7d1c7f0.png",
         "alt":"Dictionary web-app",
         "projecturl":"https://github.com/adilnawaz256/DictonaryWebsite.git"
     },{
-        "imageurl":"https://portfolio-adilnawaz256.vercel.app/static/media/sanpchart.e27ed7baebfc7d13fd77.png",
+        "imageurl":"/static/media/sanpchart.e27ed7baebfc7d13fd77.png",
         "alt":"SnapChart web-app",
         "projecturl":"https://github.com/adilnawaz2/Day06_SnapChat.git"
     }

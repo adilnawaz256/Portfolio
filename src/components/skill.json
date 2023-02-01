@@ -1,0 +1,88 @@
+[
+    {
+        "sk":"Python",
+        "progress":"75%",
+        "mystyle":{
+            "width":"75%"
+        },
+        "brands":"fa-brands fa-python"
+    },
+{
+    "sk":"React Js",
+    "progress":"65%",
+    "mystyle":{
+        "width":"65%"
+    },
+    "brands":"fa-brands fa-react"
+},
+    {
+  
+        "sk":"HTML",
+        "progress":"95%",
+        "mystyle": {
+            "width":"90%"
+        },
+        "brands":"fa-brands fa-html5"
+      
+    
+}
+,
+{
+    "sk":"Git/Github",
+    "progress":"60%",
+    "mystyle":{
+        "width":"60%"
+    },
+    "brands":"fa-brands fa-github"
+},
+
+   {
+        "sk":"CSS",
+        "progress":"60%",
+        "mystyle":{
+            "width":"60%"
+        },
+        "brands":"fa-brands fa-css3"
+    },
+    {
+        "sk":"Node Js",
+        "progress":"45%",
+        "mystyle":{
+            "width":"45%"
+        },
+        "brands":"fa-brands fa-node"
+    },
+    {
+        "sk":"Javascript",
+        "progress":"65%",
+        "mystyle":{
+            "width":"65%"
+        },
+        "brands":"fa-brands fa-js"
+    },
+    {
+        "sk":"Mongodb",
+        "progress":"45%",
+        "mystyle":{
+            "width":"45%"
+        },
+        "brands":"fa-solid fa-database"
+    
+    },
+    {
+        "sk":"Bootstrap",
+        "progress":"80%",
+        "mystyle":{
+            "width":"80%"
+        },
+        "brands":"fa-brands fa-bootstrap"
+    }
+    ,{
+        "sk":"DS & Algorithms",
+        "progress":"75%",
+        "mystyle":{
+            "width":"75%"
+        },
+        "brands":""
+    }
+]

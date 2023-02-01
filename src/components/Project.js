@@ -3,6 +3,7 @@ export default function Project() {
   const mystyle = {
     backgroundColor: "#EDF2FC",
   };
+  
   return (
     <section className="project" id="project" style={mystyle}>
       <div className="container">

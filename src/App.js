@@ -12,7 +12,7 @@ export default function App(){
        <Hero/>
        <About/>
        <Project/>
-       <Skills width="50%"/>
+       <Skills />
        <Contact/>
        <Footer/>
     </>
