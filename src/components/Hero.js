@@ -1,6 +1,7 @@
 import Typical from 'react-typical';
 import React from 'react'
 import adil from '../img/adil.jpeg'
+import { social } from './Footer';
 export default function Skills() {
     return (
         <section className='hero' id='hero'>
@@ -42,9 +43,13 @@ export default function Skills() {
                         </a>
                         <div className='social-icons'>
                             <ul>
-                                <li><a href='https://www.linkedin.com/in/adil-nawaz-331210176/' target='_blank' rel="noreferrer"><i className='uil uil-linkedin'></i></a></li>
-                                <li><a href='https://github.com/adilnawaz256/' target='_blank' rel="noreferrer"><i className='uil uil-github'></i></a></li>
-                                <li><a href='mailto:adilnawaz256@gmail.com' target='_blank' rel="noreferrer"><i className='uil uil-envelope-info'></i></a></li>
+                                {
+                                    social.map((soc)=>{
+                                        return(
+                                            <li><a href={soc.link} target='_blank' rel="noreferrer"><i className={soc.icons}></i></a></li>
+                                        )
+                                    })
+                                }
                             </ul>
                         </div>
                     </div>
