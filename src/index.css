@@ -20,7 +20,6 @@
 html { scroll-behavior: smooth; }
 body {
    font-family: "Josefin Sans", sans-serif; 
-  
 }
 a {	text-decoration: none; }
 ul { list-style: none; padding-left: 0; }
@@ -726,4 +725,15 @@ footer p {
   .back-btn-wrap {
     display: none;
   }
+}
+
+/* For Dark Mode */
+.form-check-input{
+  position: relative;
+  top: 26%;
+  width: 2.5em;
+  padding: 8px;
+  border-radius: 2em;
+  background-position: left center;
+  transition:.15s ease-in-out;
 }

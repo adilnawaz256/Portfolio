@@ -19,7 +19,7 @@ export default function Project() {
                   data-aos="fade-up"
                   data-aos-duration="1000"
                 >
-                  <div className="card mt-20" style={items.mystyle}>
+                  <div className="card mt-20 shadow-lg p-3 mb-5  rounded" style={items.mystyle}>
                     <a href={items.projecturl} target="_blank"  rel="noreferrer">
                     <img
                       src={items.imageurl}
