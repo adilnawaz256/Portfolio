@@ -1,5 +1,14 @@
 [
     {
+        "imageurl":"https://i.postimg.cc/7Y8mdqGX/ads.png",
+        "alt":"Ads news web-app",
+        "projecturl":"https://github.com/adilnawaz256/ADS-News",
+        "mystyle":{
+            "background": "#EDF2FC",
+            "boxShadow": "1px 3px 0px #000"
+        }
+    },
+    {
         "imageurl":"https://i.postimg.cc/mkbF9hkG/weather.png",
         "alt":"weather web-app",
         "projecturl":"https://github.com/adilnawaz256/WeatherApp.git",
