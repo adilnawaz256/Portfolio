@@ -1,88 +1,81 @@
 [
     {
-        "sk":"Python",
-        "progress":"75%",
-        "mystyle":{
-            "width":"75%"
-        },
-        "brands":"fa-brands fa-python"
-    },
-{
-    "sk":"React Js",
-    "progress":"65%",
-    "mystyle":{
-        "width":"65%"
-    },
-    "brands":"fa-brands fa-react"
-},
-    {
-  
-        "sk":"HTML",
-        "progress":"95%",
+        "sk": "Python",
+        "progress": "75%",
         "mystyle": {
-            "width":"90%"
+            "width": "75%"
         },
-        "brands":"fa-brands fa-html5"
-      
-    
-}
-,
-{
-    "sk":"Git/Github",
-    "progress":"60%",
-    "mystyle":{
-        "width":"60%"
-    },
-    "brands":"fa-brands fa-github"
-},
-
-   {
-        "sk":"CSS",
-        "progress":"60%",
-        "mystyle":{
-            "width":"60%"
-        },
-        "brands":"fa-brands fa-css3"
+        "brands": "fa-brands fa-python"
     },
     {
-        "sk":"Node Js",
-        "progress":"45%",
-        "mystyle":{
-            "width":"45%"
+        "sk": "React Js",
+        "progress": "90%",
+        "mystyle": {
+            "width": "90%"
         },
-        "brands":"fa-brands fa-node"
+        "brands": "fa-brands fa-react"
     },
     {
-        "sk":"Javascript",
-        "progress":"65%",
-        "mystyle":{
-            "width":"65%"
+        "sk": "HTML",
+        "progress": "95%",
+        "mystyle": {
+            "width": "90%"
         },
-        "brands":"fa-brands fa-js"
+        "brands": "fa-brands fa-html5"
     },
     {
-        "sk":"Mongodb",
-        "progress":"45%",
-        "mystyle":{
-            "width":"45%"
+        "sk": "Git/Github",
+        "progress": "60%",
+        "mystyle": {
+            "width": "60%"
         },
-        "brands":"fa-solid fa-database"
-    
+        "brands": "fa-brands fa-github"
     },
     {
-        "sk":"Bootstrap",
-        "progress":"80%",
-        "mystyle":{
-            "width":"80%"
+        "sk": "CSS",
+        "progress": "60%",
+        "mystyle": {
+            "width": "60%"
         },
-        "brands":"fa-brands fa-bootstrap"
-    }
-    ,{
-        "sk":"DS & Algorithms",
+        "brands": "fa-brands fa-css3"
+    },
+    {
+        "sk": "Tailwind CSS",
+        "progress": "45%",
+        "mystyle": {
+            "width": "45%"
+        },
+        "brands": "fa-brands fa-tailwind"
+    },
+    {
+        "sk": "Javascript",
+        "progress": "65%",
+        "mystyle": {
+            "width": "65%"
+        },
+        "brands": "fa-brands fa-js"
+    },
+    {
+        "sk": "SQL",
+        "progress": "45%",
+        "mystyle": {
+            "width": "45%"
+        },
+        "brands": "fa-solid fa-database"
+    },
+    {
+        "sk":"Redux Toolkit",
         "progress":"75%",
         "mystyle":{
             "width":"75%"
+        }
+    },
+    {
+        "sk": "DS & Algorithms",
+        "progress": "75%",
+        "mystyle": {
+            "width": "75%"
         },
-        "brands":""
+        "brands": ""
     }
 ]

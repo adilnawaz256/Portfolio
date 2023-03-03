@@ -21,7 +21,7 @@ export default function Header(){
                     <a className='nav-link' href='#about'><i className='uil uil-user'></i> About</a>
                   </li>
                   <li className='nav-item'>
-                    <a className='nav-link' href='#project'><i className='uil uil-estate'></i>Project</a>
+                    <a className='nav-link' href='#project'><i className='uil uil-project'></i>Project</a>
                   </li>
                   <li className='nav-item'>
                     <a className='nav-link' href='#skills'><i className='uil uil-react'></i> Skills</a>
