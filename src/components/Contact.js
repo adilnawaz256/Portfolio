@@ -21,8 +21,8 @@ export default function Contact() {
 
   const handleSubmit = (values, { resetForm }) => {
     emailjs.sendForm(
-      "service_mznmehq",
-      "template_amdy07n",
+      "service_0aq58j4",
+      "template_w4a6rr1",
       formRef.current,
       "user_wYU38sUiU4kH5PUiZCnqf"
     ).then((result) => {
