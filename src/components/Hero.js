@@ -35,12 +35,16 @@ export default function Skills() {
                         <p className='pt-10'>
                         A passionate web developer having a knack for building websites that provides with user friendly experiences...
                         </p>
-                        <a href='#about' className='learn-more'>
+                        <button  className='learn-more'
+                        onClick={()=>{
+                            window.open('https://drive.google.com/file/d/1qAh-EwLF_CJj6DR7SVuGf3xvNBnuCDWb/view?usp=sharing')
+                        }}
+                        >
                             <span className='circle' aria-hidden='true'>
                                 <span className='icon arrow'></span>
                             </span>
-                            <span className='button-text'>Read More</span>
-                        </a>
+                            <span className='button-text'>Resume</span>
+                        </button>
                         <div className='social-icons'>
                             <ul>
                                 {
