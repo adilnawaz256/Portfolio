@@ -1,4 +1,12 @@
+import { useContext } from "react"
+import { Contexthandle } from "../utils/Contexthandle"
+
 export default function Header(){
+  const dark1 = useContext(Contexthandle)
+  const {dark , setdark} = dark1
+  function handleTheme(){
+    // document.body.style.backgroundColor="black"
+  }
     return(
         <header id='header-sticky' className='sticky'>
         <div className='container'>
@@ -29,6 +37,7 @@ export default function Header(){
                   <li className='nav-item'>
                     <a className='nav-link' href='#contact'><i className='uil uil-calling'></i> Contact</a>
                   </li>
+                  {/* <button onClick={handleTheme}>dark</button> */}
                 </ul>
               </div>
             </div>

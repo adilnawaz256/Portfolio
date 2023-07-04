@@ -1,6 +1,6 @@
 import Typical from 'react-typical';
 import React from 'react'
-import adil from '../img/adil.jpeg'
+import adil from '../assets/adil.jpeg'
 import { social } from './Footer';
 export default function Skills() {
     return (

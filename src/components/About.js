@@ -1,5 +1,5 @@
 import "aos/dist/aos.css";
-import about from '../img/About.jpg'
+import about from '../assets/About.jpg'
 export default function About() {
     return (
         <section className='about' id='about'>
@@ -13,9 +13,8 @@ export default function About() {
                         data-aos-offset="300"
                         data-aos-easing="ease-in-sine">
                         <div className="about-content">
-                            <p>I'm pursuing a B.Tech in Computer Science Engineering at Punjab💻.</p>
-                            <p>I am an aspiring web developer looking forward to sharpen my skills and working on myself everyday to achieve the same. I am currently learning and using  JavaScript and React 
-              and trying to add more to the stack.</p>
+                            <p>I recently completed my B.Tech. in Computer Science Engineering 💻.</p>
+                            <p>I am a well-versed web developer and look forward to sharpening my skills and working on myself every day to achieve the same. I am using React.Js and Javascript, and I am trying to add more to the stack.</p>
                             <div className="row">
                                 <a href='#contact' className='learn-more animate__animated animate__bounceInUp'>
                                     <span className='circle' aria-hidden='true'>
